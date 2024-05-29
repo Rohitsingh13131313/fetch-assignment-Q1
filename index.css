@@ -1,0 +1,16 @@
+.div{
+    display: flex;
+    padding: 12px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin: 20px;   
+    border-radius: 10px;  
+    font-size: 17px; 
+}
+button{
+    height: 30px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    
+}
